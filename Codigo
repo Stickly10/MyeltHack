@@ -1,0 +1,5 @@
+<div class="toolbar control-btns">
+	<button class="" enabled="true" data-function="showAnswer">Show Answers</button>
+	<button class="submit-btn submit stock-btn" enabled="" title="Please complete all items!" data-function="submit">Submit
+	</button>
+	<button class="result-btn stock-btn" title="result" data-function="showResult" style="">Results</button></div>
